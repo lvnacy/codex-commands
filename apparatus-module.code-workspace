@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"window.autoDetectColorScheme": true,
+		"workbench.preferredDarkColorTheme": "Nord Midnight",
+		"workbench.preferredLightColorTheme": "Nord Light"
+	}
+}
